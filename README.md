@@ -18,5 +18,57 @@
         centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
         </dell></strong>
         It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+       <h1>
+        this is my second page
+
+        <ol>
+<li>100k codinf challenge</li>
+<li>web designing</li>
+<li>Git challenge</li>
+<li>web development</li>
+<li> PWA challenge</li>
+<li> devops challenge</li>
+<li> Cyber secuirity</li>  
+    </ol>
+<ul>
+    <li>goal</li>
+    <li>Descipline</li>
+    <li>high skill</li>
+    <li>mentor</li>
+    <li>Networking</li>
+    <li> Play to win</li>
+    <li> Knowledge</li>
+</ul>
+<h1>Table</h1>
+<table border ="10px">
+    <thead>
+<tr>
+    <th> No</th>
+    <th> Bussiness</th>
+    <th>Type</th>  
+</tr> 
+</thead>
+<tbody>
+    <tr>
+
+<td>1</td>
+<td>Restaurent</td>
+<td>Traditional</td>
+</tr>
+<tr>
+    <td>2
+
+</td>
+<td>swiggy</td>
+<td>startup</td>
+</tr>
+
+</tbody>
+
+</table>
+
+    
+
+</html>
   </body>
   </html>
